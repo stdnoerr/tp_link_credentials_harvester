@@ -4,7 +4,9 @@ This **Vulnerability** basically uses another [Vulnerability](https://www.exploi
 This **configuration file(conf.bin)** is the **most sensitive piece of information** that a **Hacker** would love to have of its **Victim.**
 But this configuration file is **Encrypted** by the Vendor (Essentially **TP-LINK**).
 
-*Fortunately,* This configuration can be **Decrypted.** To Exploit this just follow the following guidelines:-
+*Fortunately,* This configuration file can be **Decrypted.** 
+
+To Exploit this Vulnerability just follow the following guidelines:-
 
 # The Game Show
 
