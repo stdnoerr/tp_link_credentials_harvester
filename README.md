@@ -6,7 +6,7 @@ But this configuration file is **Encrypted** by the Vendor (Essentially **TP-LIN
 
 *Fortunately,* This configuration can be **Decrypted.** To Exploit this just follow the following guidelines:-
 
-# Procedure
+# The Game Show
 
 ## Getting The File
 
