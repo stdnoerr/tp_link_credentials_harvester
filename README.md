@@ -1,3 +1,5 @@
+Note: what follows is my first security related "Wow" moment. I was in high school and was just starting cybersec. I has many poor terms and errors. But, I've decided to left it as-is as a reminder how bad I'm at cybersec. Hope you like :slight_smile:
+
 # TP-LINK Routers Admin Account Password Harvesting Vulnerability.
 This **Vulnerability** basically uses another [Vulnerability](https://www.exploit-db.com/exploits/44781) which is a **limited authentication bypass vulnerability** using which it downloads the configuration file of the Router.
 
